@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1082258806065",
+    "firebase_url": "https://fir-cloudmessege.firebaseio.com",
+    "project_id": "fir-cloudmessege",
+    "storage_bucket": "fir-cloudmessege.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082258806065:android:1dacaef984066f30",
+        "android_client_info": {
+          "package_name": "com.fantastic.vatsal.firebasecloudmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082258806065-ci4psp891n82rbsshmp3tcqjasm8msev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzkfuB6ONjvoUOFJDrWZWI9-yUikYhCwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
